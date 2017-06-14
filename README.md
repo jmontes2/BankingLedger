@@ -1,2 +1,0 @@
-# Foundations
-IT Foundations Class
